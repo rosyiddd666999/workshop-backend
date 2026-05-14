@@ -1,4 +1,9 @@
 # workshop-backend
+## requirement install
+```
+npm init -y
+npm install express fs cors
+```
 ```
 workshop/
 ├── backend/
